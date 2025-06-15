@@ -17,7 +17,7 @@
 - Identified common themes in negative feedback
 
 ### 3. Dashboard Development in Power BI
-- Created interactive dashboards for conversion, engagement, and customer review
+- Created interactive dashboards for conversion, engagement, and customer reviews
 - Included filters by product name and sentiment category
 - Visualized key performance indicators clearly and effectively
 
